@@ -1,7 +1,7 @@
 {
   "daily": {
     "last_winner": "Hex Good",
-    "count": 2
+    "count": 3
   },
   "weekly": {
     "last_winner": "Kamikadzei",
@@ -11,5 +11,5 @@
     "last_winner": "Hex Good",
     "count": 1
   },
-  "reigning_king": "Kamikadzei"
+  "reigning_king": "Hex Good"
 }
